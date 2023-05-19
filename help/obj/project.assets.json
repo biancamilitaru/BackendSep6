@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/bianca/.nuget/packages/": {}
+    "C:\\Users\\Kira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bianca/RiderProjects/help/help/help.csproj",
+      "projectUniqueName": "D:\\Git projects\\help\\help\\help.csproj",
       "projectName": "help",
-      "projectPath": "/Users/bianca/RiderProjects/help/help/help.csproj",
-      "packagesPath": "/Users/bianca/.nuget/packages/",
-      "outputPath": "/Users/bianca/RiderProjects/help/help/obj/",
+      "projectPath": "D:\\Git projects\\help\\help\\help.csproj",
+      "packagesPath": "C:\\Users\\Kira\\.nuget\\packages\\",
+      "outputPath": "D:\\Git projects\\help\\help\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bianca/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -284,7 +284,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,11 @@
+D:\Git projects\help\help\bin\Publish\help.exe
+D:\Git projects\help\help\bin\Publish\appsettings.Development.json
+D:\Git projects\help\help\bin\Publish\appsettings.json
+D:\Git projects\help\help\bin\Publish\help.dll
+D:\Git projects\help\help\bin\Publish\help.deps.json
+D:\Git projects\help\help\bin\Publish\help.runtimeconfig.json
+D:\Git projects\help\help\bin\Publish\help.pdb
+D:\Git projects\help\help\bin\Publish\Microsoft.OpenApi.dll
+D:\Git projects\help\help\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git projects\help\help\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git projects\help\help\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
