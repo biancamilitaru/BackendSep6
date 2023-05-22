@@ -25,3 +25,9 @@ D:\Git projects\help\help\obj\Release\net6.0\refint\help.dll
 D:\Git projects\help\help\obj\Release\net6.0\help.pdb
 D:\Git projects\help\help\obj\Release\net6.0\help.genruntimeconfig.cache
 D:\Git projects\help\help\obj\Release\net6.0\ref\help.dll
+D:\Git projects\help\help\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Git projects\help\help\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git projects\help\help\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -9,3 +9,9 @@ D:\Git projects\help\help\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
 D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
 D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
