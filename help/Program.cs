@@ -8,7 +8,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: myAllowSpecificOrigins,
         policy  =>
         {
-            policy.WithOrigins(new []{"https://localhost:7186", "http://localhost:5006", "https://backend4hell.azurewebsites.net/api", "https://movieforu.azurewebsites.net"}).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
+            policy.WithOrigins(new []{"https://localhost:7186", "http://localhost:5006", "https://backend4hell.azurewebsites.net", "https://movieforu.azurewebsites.net"}).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
         });
 
 });
@@ -33,5 +33,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors(myAllowSpecificOrigins); 
 
 app.Run();
