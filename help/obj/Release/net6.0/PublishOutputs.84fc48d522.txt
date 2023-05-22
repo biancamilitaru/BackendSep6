@@ -1,0 +1,11 @@
+D:\Git projects\help\help\bin\Release\net6.0\publish\help.exe
+D:\Git projects\help\help\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Git projects\help\help\bin\Release\net6.0\publish\appsettings.json
+D:\Git projects\help\help\bin\Release\net6.0\publish\help.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\help.deps.json
+D:\Git projects\help\help\bin\Release\net6.0\publish\help.runtimeconfig.json
+D:\Git projects\help\help\bin\Release\net6.0\publish\help.pdb
+D:\Git projects\help\help\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git projects\help\help\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
