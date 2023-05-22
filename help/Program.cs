@@ -7,7 +7,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: myAllowSpecificOrigins,
         policy  =>
         {
-            policy.WithOrigins("https://localhost:7186", "http://localhost:5006", "https://backend4hell.azurewebsites.net/api/", "https://movieforu.azurewebsites.net/").AllowAnyHeader().AllowAnyMethod();
+            policy.WithOrigins("https://localhost:7186", "http://localhost:5006", "https://backend4hell.azurewebsites.net/api", "https://movieforu.azurewebsites.net").AllowAnyHeader().AllowAnyMethod().AllowCredentials();
         });
 });
 
